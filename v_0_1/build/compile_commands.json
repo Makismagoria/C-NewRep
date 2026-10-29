@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Overlord/C++/v_0_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\simulaTron.dir\\main.cpp.obj -c C:\\Users\\Overlord\\C++\\v_0_1\\main.cpp",
+  "file": "C:/Users/Overlord/C++/v_0_1/main.cpp",
+  "output": "C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/simulaTron.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Overlord/C++/v_0_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\simulaTron.dir\\Sinr.cpp.obj -c C:\\Users\\Overlord\\C++\\v_0_1\\Sinr.cpp",
+  "file": "C:/Users/Overlord/C++/v_0_1/Sinr.cpp",
+  "output": "C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/simulaTron.dir/Sinr.cpp.obj"
+},
+{
+  "directory": "C:/Users/Overlord/C++/v_0_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\simulaTron.dir\\TransmissionGenerator.cpp.obj -c C:\\Users\\Overlord\\C++\\v_0_1\\TransmissionGenerator.cpp",
+  "file": "C:/Users/Overlord/C++/v_0_1/TransmissionGenerator.cpp",
+  "output": "C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/simulaTron.dir/TransmissionGenerator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Overlord/C++/v_0_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\simulaTron.dir\\MeasureSinr.cpp.obj -c C:\\Users\\Overlord\\C++\\v_0_1\\MeasureSinr.cpp",
+  "file": "C:/Users/Overlord/C++/v_0_1/MeasureSinr.cpp",
+  "output": "C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/simulaTron.dir/MeasureSinr.cpp.obj"
+},
+{
+  "directory": "C:/Users/Overlord/C++/v_0_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\simulaTron.dir\\LinkAdapt.cpp.obj -c C:\\Users\\Overlord\\C++\\v_0_1\\LinkAdapt.cpp",
+  "file": "C:/Users/Overlord/C++/v_0_1/LinkAdapt.cpp",
+  "output": "C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/simulaTron.dir/LinkAdapt.cpp.obj"
+},
+{
+  "directory": "C:/Users/Overlord/C++/v_0_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\simulaTron.dir\\Reception.cpp.obj -c C:\\Users\\Overlord\\C++\\v_0_1\\Reception.cpp",
+  "file": "C:/Users/Overlord/C++/v_0_1/Reception.cpp",
+  "output": "C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/simulaTron.dir/Reception.cpp.obj"
+}
+]
