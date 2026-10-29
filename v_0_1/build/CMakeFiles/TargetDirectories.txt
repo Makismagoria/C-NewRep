@@ -1,3 +1,0 @@
-C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/simulaTron.dir
-C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/edit_cache.dir
-C:/Users/Overlord/C++/v_0_1/build/CMakeFiles/rebuild_cache.dir
